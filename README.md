@@ -1,1 +1,1 @@
-# Data-Project
+# Information Retrieval System
